@@ -6,7 +6,7 @@ A responsive page in mobile and tablet mode with a search and shopping cart sect
 
 <hr>
 
-<strong>Photo from website :</strong>
+# Photo from website :
 
 
 <div>
