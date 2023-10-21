@@ -3,7 +3,6 @@
 
 A responsive page in mobile and tablet mode with a search and shopping cart section for product selection and user feedback.
 
-
 <hr>
 
 # Photo from website :
